@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://middlepartystore.com/sitemap.xml
